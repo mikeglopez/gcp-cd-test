@@ -33,3 +33,4 @@ gcloud app deploy
 ## Deploying to App Engine on Github push
 
 Check out to the tutorial (link tbd)
+https://www.freecodecamp.org/news/continuous-deployment-for-node-js-on-google-cloud-platform-751a035a28d5/
